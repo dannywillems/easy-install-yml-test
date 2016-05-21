@@ -1,0 +1,4 @@
+description: simple install
+
+install:
+  - echo "Simple install"
