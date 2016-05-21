@@ -1,0 +1,7 @@
+description: Install with depends-easy
+
+install:
+  - echo "Install with depends-easy"
+
+depends-easy:
+  - 'Install "dannywillems/easy-install-yml-test", {"file": "install.yml"}'
