@@ -1,0 +1,7 @@
+description: Test file for after_install node.
+
+install:
+  - echo "Hello world in Install"
+
+after_install:
+  - echo "Hello world after install"
